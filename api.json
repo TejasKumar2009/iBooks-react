@@ -1,0 +1,840 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 185,
+    "items": [
+    {
+    "kind": "books#volume",
+    "id": "H9emM_LGFDEC",
+    "etag": "C3C+1G0iu5Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/H9emM_LGFDEC",
+    "volumeInfo": {
+    "title": "Programming in Python 3",
+    "subtitle": "A Complete Introduction to the Python Language",
+    "authors": [
+    "Mark Summerfield"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2010",
+    "description": "Now fully updated, this edition brings together all the knowledge needed to write programs, use any library, and even create new library modules. The book teaches every aspect of the Python 3 language and covers all the built-in functionality.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780321680563"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0321680561"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 648,
+    "printType": "BOOK",
+    "categories": [
+    "Object-oriented programming (Computer science)."
+    ],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=H9emM_LGFDEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=H9emM_LGFDEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=H9emM_LGFDEC&printsec=frontcover&dq=intitle:Python&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=H9emM_LGFDEC&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Programming_in_Python_3.html?hl=&id=H9emM_LGFDEC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H9emM_LGFDEC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Now fully updated, this edition brings together all the knowledge needed to write programs, use any library, and even create new library modules."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "VCX0KrcGQpcC",
+    "etag": "33BRDz1cMEQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VCX0KrcGQpcC",
+    "volumeInfo": {
+    "title": "Core Python Programming",
+    "authors": [
+    "Chun"
+    ],
+    "publisher": "Pearson Education India",
+    "publishedDate": "2006",
+    "description": "This is the eBook version of the printed book. If the print book includes a CD-ROM, this content is not included within the eBook version. The Complete Developer's Guide to Python New to Python? The definitive guide.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8131711889"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788131711880"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 1120,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.5.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=VCX0KrcGQpcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=VCX0KrcGQpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=VCX0KrcGQpcC&printsec=frontcover&dq=intitle:Python&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=VCX0KrcGQpcC&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Core_Python_Programming.html?hl=&id=VCX0KrcGQpcC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.co.in/books/download/Core_Python_Programming-sample-pdf.acsm?id=VCX0KrcGQpcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VCX0KrcGQpcC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "This is the eBook version of the printed book. If the print book includes a CD-ROM, this content is not included within the eBook version. The Complete Developer&#39;s Guide to Python New to Python? The definitive guide."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "zkDdhUDbrCIC",
+    "etag": "Pzw1UFZknnA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zkDdhUDbrCIC",
+    "volumeInfo": {
+    "title": "Making Use of Python",
+    "authors": [
+    "Rashi Gupta"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2003-08-16",
+    "description": "Python is a multipurpose development language that can be used on virtually every platform. It offers built-in support for critical development steps including data structures, dynamic typing, and dynamic building. It can be used in lieu of Java or C++, and Python scripts can be developed in a fraction of the time it takes to program and debug higher-level languages. Covers language basics and how to use Python for CGI scripting, GUI development, network programming, and much more Demonstrates why Python is arguably the most sophisticated of the popular scripting languages and why its popularity continues to grow",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780471449386"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0471449385"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 417,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=zkDdhUDbrCIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=zkDdhUDbrCIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=zkDdhUDbrCIC&printsec=frontcover&dq=intitle:Python&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=zkDdhUDbrCIC&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Making_Use_of_Python.html?hl=&id=zkDdhUDbrCIC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.co.in/books/download/Making_Use_of_Python-sample-pdf.acsm?id=zkDdhUDbrCIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zkDdhUDbrCIC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "With its unique task-oriented approach, this book explores the language basics and then describes how to quickly begin using it for development work."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "fzUCGtyg0MMC",
+    "etag": "4+a1tqnhoaw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fzUCGtyg0MMC",
+    "volumeInfo": {
+    "title": "Python Programming On Win32",
+    "subtitle": "Help for Windows Programmers",
+    "authors": [
+    "Mark Hammond",
+    "Andy Robinson"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2000",
+    "description": "A demonstration of Python's basic technologies showcases the programming language's possiblities as a Windows development and administration tool.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781565926219"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1565926218"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.1.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=fzUCGtyg0MMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=fzUCGtyg0MMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=fzUCGtyg0MMC&printsec=frontcover&dq=intitle:Python&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=fzUCGtyg0MMC&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_On_Win32.html?hl=&id=fzUCGtyg0MMC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fzUCGtyg0MMC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Demonstrates how to use the Python programming language (an object- oriented scripting language) as a development and administrations tool for Win32."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "f57uDwAAQBAJ",
+    "etag": "X+Abhl8pTl4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/f57uDwAAQBAJ",
+    "volumeInfo": {
+    "title": "Introduction to Computation and Programming Using Python, third edition",
+    "subtitle": "With Application to Computational Modeling and Understanding Data",
+    "authors": [
+    "John V. Guttag"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "2021-01-26",
+    "description": "The new edition of an introduction to the art of computational problem solving using Python. This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including numpy, matplotlib, random, pandas, and sklearn. It provides students with skills that will enable them to make productive use of computational techniques, including some of the tools and techniques of data science for using computation to model and interpret data as well as substantial material on machine learning. All of the code in the book and an errata sheet are available on the book’s web page on the MIT Press website.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780262363433"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0262363437"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 659,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=f57uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=f57uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=f57uDwAAQBAJ&printsec=frontcover&dq=intitle:Python&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f57uDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f57uDwAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 4416.74,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amount": 4416.74,
+    "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f57uDwAAQBAJ&rdid=book-f57uDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 4416740000,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amountInMicros": 4416740000,
+    "currencyCode": "INR"
+    }
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_Computation_and_Programm-sample-epub.acsm?id=f57uDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_Computation_and_Programm-sample-pdf.acsm?id=f57uDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f57uDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including numpy, matplotlib, random, pandas, and sklearn."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "CfcEAQAAQBAJ",
+    "etag": "7Rpaq6jnsmY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CfcEAQAAQBAJ",
+    "volumeInfo": {
+    "title": "Learn Python the Hard Way",
+    "subtitle": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+    "authors": [
+    "Zed A. Shaw"
+    ],
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2013-09-27",
+    "description": "You Will Learn Python! Zed Shaw has perfected the world's best system for learning Python. Follow it and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date! You bring the discipline, commitment, and persistence; the author supplies everything else. In Learn Python the Hard Way, Third Edition, you'll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you'll learn how software works; what good programs look like; how to read, write, and think about code; and how to find and fix your mistakes using tricks professional programmers use. Most importantly, you'll learn the following, which you need to start writing excellent Python software of your own: Installing a complete Python environment Organizing and writing code Basic mathematics Variables Strings and text Interacting with users Working with files Looping and logic Data structures using lists and dictionaries Program design Object-oriented programming Inheritance and composition Modules, classes, and objects Python packaging Debugging Automated testing Basic game development Basic web development It'll be hard at first. But soon, you'll just get it-and that will feel great! This tutorial will reward you for every minute you put into it. Soon, you'll know one of the world's most powerful, popular programming languages. You'll be a Python programmer. Watch Zed, too! The accompanying DVD contains 5+ hours of passionate, powerful teaching: a complete Python video course!",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780133124347"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0133124347"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.211.206.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=CfcEAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=CfcEAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=CfcEAQAAQBAJ&printsec=frontcover&dq=intitle:Python&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CfcEAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CfcEAQAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 1746.02,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amount": 1746.02,
+    "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CfcEAQAAQBAJ&rdid=book-CfcEAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 1746020000,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amountInMicros": 1746020000,
+    "currencyCode": "INR"
+    }
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CfcEAQAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "You bring the discipline, commitment, and persistence; the author supplies everything else. In Learn Python the Hard Way, Third Edition, you&#39;ll learn Python by working through 52 brilliantly crafted exercises. Read them."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "NjFpDwAAQBAJ",
+    "etag": "UOGN+pJUQSA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NjFpDwAAQBAJ",
+    "volumeInfo": {
+    "title": "Core Python Applications Programming",
+    "authors": [
+    "Wesley J. Chun"
+    ],
+    "publisher": "Pearson Education India",
+    "description": "Python is an agile, robust and expressive programming language that continues to build momentum. It combines the power of compiled languages with the simplicity and rapid development of scripting languages. This book has everything you need to become a versatile Python developer. You will be introduced to multiple areas of application development and gain knowledge that can be immediately applied to projects and you will find code samples in both Python 2 and 3, including migration tips if that's on your roadmap too. Some snippets will even run unmodified on 2.x or 3.x.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9789353062149"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "9353062144"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 800,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=NjFpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=NjFpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=NjFpDwAAQBAJ&printsec=frontcover&dq=intitle:Python&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NjFpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NjFpDwAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 629.1,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amount": 314.55,
+    "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NjFpDwAAQBAJ&rdid=book-NjFpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 629100000,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amountInMicros": 314550000,
+    "currencyCode": "INR"
+    }
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.co.in/books/download/Core_Python_Applications_Programming-sample-pdf.acsm?id=NjFpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NjFpDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "It combines the power of compiled languages with the simplicity and rapid development of scripting languages. This book has everything you need to become a versatile Python developer."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "tN7JAceyJdUC",
+    "etag": "7xyuu/YMQXI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tN7JAceyJdUC",
+    "volumeInfo": {
+    "title": "Programming Python",
+    "authors": [
+    "Mark Lutz"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2006-08-23",
+    "description": "Already the industry standard for Python users, ProgrammingPython fromO'Reilly just got even better. This third edition has been updated toreflect current best practices andthe abundance of changes introduced by the latest version of thelanguage, Python 2.5. Whether you're a novice or an advancedpractitioner, you'll find thisrefreshed book more than lives up to its reputation. ProgrammingPython, 3rd Edition, teaches you the rightway to code. It explains Python language syntax and programmingtechniques in a clear and concisemanner, with numerous examples that illustrate both correct usage andcommon idioms. By reading thiscomprehensive guide, you'll learn how to apply Python in real-worldproblem domains such as: GUI programming Internet scripting Parallel processing Database management Networked applications Programming Python, Third Edition coverseach of thesetarget domainsgradually, beginning with in-depth discussions of core concepts andthen progressing toward completeprograms. Large examples do appear, but only after you've learnedenough to understand their techniques andcode. Along the way, you'll also learn how to use the Python language inrealistically scaled programs--concepts such as Object-Oriented Programming (OOP) and code reuseare recurring side themes throughout thistext. If you're interested in Python programming, then this O'Reillyclassic needs to be within arm's reach. Thewealth of practical advice, snippets of code, and patterns of programdesign can all be put into use on adaily basis--making your life easier and more productive. Reviews of the second edition: \"...about as comprehensive as any book can be.\" --Dr. Dobb's Journal \"If the language had manuals, they would undoubtedlybe the texts from O'Reilly...'Learning Python' and 'Programming Python'are definitive treatments.\" --SD Times",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0596554613"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780596554613"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 1600,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 19,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.4.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=tN7JAceyJdUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=tN7JAceyJdUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=tN7JAceyJdUC&printsec=frontcover&dq=intitle:Python&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tN7JAceyJdUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tN7JAceyJdUC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 3540,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amount": 3540,
+    "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tN7JAceyJdUC&rdid=book-tN7JAceyJdUC&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 3540000000,
+    "currencyCode": "INR"
+    },
+    "retailPrice": {
+    "amountInMicros": 3540000000,
+    "currencyCode": "INR"
+    }
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tN7JAceyJdUC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Reviews of the second edition: &quot;...about as comprehensive as any book can be.&quot; --Dr. Dobb&#39;s Journal &quot;If the language had manuals, they would undoubtedlybe the texts from O&#39;Reilly."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "6TEcaEzA8N0C",
+    "etag": "lsPO+C56aYA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6TEcaEzA8N0C",
+    "volumeInfo": {
+    "title": "Python in a Nutshell",
+    "authors": [
+    "Alex Martelli"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2003",
+    "description": "This new title offers Python programmers one place to look when they need help remembering or deciphering the most important tools and modules of this open source language.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0596001886"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780596001889"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 660,
+    "printType": "BOOK",
+    "categories": [
+    "Object-oriented programming (Computer science)"
+    ],
+    "averageRating": 3,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "5.6.9.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=6TEcaEzA8N0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=6TEcaEzA8N0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=6TEcaEzA8N0C&printsec=frontcover&dq=intitle:Python&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=6TEcaEzA8N0C&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Python_in_a_Nutshell.html?hl=&id=6TEcaEzA8N0C"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6TEcaEzA8N0C&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "This new title offers Python programmers one place to look when they need help remembering or deciphering the most important tools and modules of this open source language."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "pMEUG8oNBfkC",
+    "etag": "ee1MfyzKinA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pMEUG8oNBfkC",
+    "volumeInfo": {
+    "title": "Python for Kids",
+    "subtitle": "A Playful Introduction To Programming",
+    "authors": [
+    "Jason R. Briggs"
+    ],
+    "publisher": "No Starch Press",
+    "publishedDate": "2012-12-12",
+    "description": "Python is a powerful, expressive programming language that’s easy to learn and fun to use! But books about learning to program in Python can be kind of dull, gray, and boring, and that’s no fun for anyone. Python for Kids brings Python to life and brings you (and your parents) into the world of programming. The ever-patient Jason R. Briggs will guide you through the basics as you experiment with unique (and often hilarious) example programs that feature ravenous monsters, secret agents, thieving ravens, and more. New terms are defined; code is colored, dissected, and explained; and quirky, full-color illustrations keep things on the lighter side. Chapters end with programming puzzles designed to stretch your brain and strengthen your understanding. By the end of the book you’ll have programmed two complete games: a clone of the famous Pong and \"Mr. Stick Man Races for the Exit\"—a platform game with jumps, animation, and much more. As you strike out on your programming adventure, you’ll learn how to: –Use fundamental data structures like lists, tuples, and maps –Organize and reuse your code with functions and modules –Use control structures like loops and conditional statements –Draw shapes and patterns with Python’s turtle module –Create games, animations, and other graphical wonders with tkinter Why should serious adults have all the fun? Python for Kids is your ticket into the amazing world of computer programming. For kids ages 10+ (and their parents) The code in this book runs on almost anything: Windows, Mac, Linux, even an OLPC laptop or Raspberry Pi!",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781593274078"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1593274076"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+    "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.8.6.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=pMEUG8oNBfkC&printsec=frontcover&dq=intitle:Python&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=pMEUG8oNBfkC&dq=intitle:Python&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Python_for_Kids.html?hl=&id=pMEUG8oNBfkC"
+    },
+    "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pMEUG8oNBfkC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Python for Kids is your ticket into the amazing world of computer programming. For kids ages 10+ (and their parents) The code in this book runs on almost anything: Windows, Mac, Linux, even an OLPC laptop or Raspberry Pi!"
+    }
+    }
+    ]
+    }
